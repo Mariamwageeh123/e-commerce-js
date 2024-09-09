@@ -1,0 +1,47 @@
+/* .login_box{
+    border: 2px blue solid;
+    position: absolute;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    width: 70%;
+    height: 300px;
+    
+}
+.box{
+    position: relative;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+} */
+
+
+.box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    position: relative;
+}
+
+.login_box {
+    border: 2px blue solid;
+    border-radius: 9px;
+    width: 60%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+.i{
+    width: 500px;
+}
+.f{
+    width: 200px;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+}
